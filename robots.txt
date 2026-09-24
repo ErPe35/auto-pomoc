@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://erpe35.github.io/auto-pomoc/sitemap.xml

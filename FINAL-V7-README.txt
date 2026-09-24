@@ -1,0 +1,1 @@
+V7: dodano 3 grafiki do sekcji Jak działamy i podmieniono step cards w index.html. style.css zawiera responsywny grid 3 kolumny desktop / 1 kolumna mobile. script.js pozostawiony bez zmian.
